@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Bellhaven CRM Reconciliation — Phase 1: Read-only data collection
 
 This is **phase 1 only**, not the finished assignment. It does **not** write to the CRM or implement matching/review yet.
@@ -30,3 +31,7 @@ python collect.py
 - Directory pagination may vary; confirm count and inspect pages manually. Homepage-linked facilities are also checked.
 - API token belongs only in `.env`. Never paste it in issues, logs or screenshots.
 - No account modifications happen in this phase. Next phases: schema validation, normalization, entity matching, CHOW policy, review app, approval-only writeback, and idempotency checks.
+=======
+# crm-reconciliation
+Automated CRM ownership reconciliation with entity matching and human-in-the-loop review
+>>>>>>> origin/main
